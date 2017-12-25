@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Volume.Header" parent="@*com.android.systemui:style/TextAppearance.Volume">
+    	<item name="android:textSize">0.0sp</item>
+   	    <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+</resources>
